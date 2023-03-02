@@ -1,0 +1,36 @@
+button{
+    width: 250px;
+    height: 80px;
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 35px;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #00471b;
+}
+
+.boton-click{
+    background-color: #002ead;
+}
+
+.boton-reiniciar{
+    background-color: #5a01a7;
+}
+
+.contador{
+    min-width: 300px;
+    height: 300px;
+    font-size: 160px;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 8px solid black;
+    margin-bottom: 15px;
+}
